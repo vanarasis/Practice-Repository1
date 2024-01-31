@@ -5,8 +5,8 @@
 
 using namespace std;
 
-// Print  hi 
-//sari
+// queue program
+//**************
 void showq(queue<int> gq)
 {
 	queue<int> g = gq;
